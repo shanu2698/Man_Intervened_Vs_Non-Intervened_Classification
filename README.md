@@ -1,5 +1,6 @@
-# Man_Intervened_Vs_Non-Intervened_Classification
-Binary image classification using CNN 
+# Binary image classification using CNN 
+Man Intervened Vs Non-Intervened Raster Image Classification
+(In other words it classifies images between man made terrain in satellite images and natural occuring terrains in satellite images)
 
 For downloading the dataset click here: https://www.kaggle.com/shanuthakur/man-intervened-vs-nonintervened-classification
 
