@@ -1,6 +1,8 @@
 # Man_Intervened_Vs_Non-Intervened_Classification
 Binary image classification using CNN 
 
+For downloading the dataset click here: https://www.kaggle.com/shanuthakur/man-intervened-vs-nonintervened-classification
+
 
 I have took high resolution screen snips from USGS site and data is of Sentinel-1 with 10% of cloud cover
 
